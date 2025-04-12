@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TikTokDownloader</string>
+    <string name="backend_url">https://tiktok-downloader-api.saithg04.work</string>
+    <string name="end_point">download</string>
+</resources>
